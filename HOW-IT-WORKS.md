@@ -191,4 +191,4 @@ Claude will not trigger Learning Mode automatically if you are mid-implementatio
 
 ## Sessions logged so far
 
-Once installed, your personal log lives at `C:\Users\<username>\.claude\learning-log.md` on Windows, or `~/.claude/learning-log.md` on macOS and Linux. Each completed learning session appends a new dated entry there. The `learning-log.md` file in this repo is a starter template containing one example entry to show the expected format, replace or delete it before you begin.
+Once installed, your personal log lives at `C:\Users\<username>\.claude\learning-log.md` on Windows, or `~/.claude/learning-log.md` on macOS and Linux. Each completed learning session appends a new dated entry there. The `learning-log.md` file in this repo is a starter template containing one blank template entry plus two worked examples, prompt caching and tool use loop, to show the expected format. Replace or delete them before you begin.
