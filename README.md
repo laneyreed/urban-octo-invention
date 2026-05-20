@@ -2,6 +2,8 @@
 
 A guided, hands-on coding learning system for **Claude Code**. Pairs a custom skill with a global learning log so every concept you study is captured once and remembered across every future session, in every project.
 
+![Visual Diagram](./htmlpageimage.png)
+
 ## Three modes
 
 | Mode | Purpose | How to trigger |
@@ -36,9 +38,11 @@ If you are using this system for general learning, not the exam, skip those two 
 | `learning-log.md` | Starter log with a blank template entry plus two worked examples, prompt caching and tool use loop, showing the full schema. Copy to your `.claude/` directory and clear the examples before you begin. |
 | `global-claude-md-snippet.md` | The block to paste into your global `CLAUDE.md`. |
 | `HOW-IT-WORKS.md` | Full system design: all three mode flows, log entry schema, spaced-repetition schedule, and the file-relationship diagram. |
+| `system-diagram.html` | Visual one-page diagram of the system. Triggers, file architecture flow, the three mode flows side by side, spaced-repetition schedule, and log entry shape. Open directly in a browser. |
 | `Claude_Certified_Architect_Exam.md` | Study guide for using Learning Mode to prepare for the Claude Certified Architect Exam. Setup, daily routine, mode-selection table, and tips. |
 | `architect-exam-topics.md` | Suggested topic checklist and 4-week study sequence for the Claude Certified Architect Exam. Optional, only relevant if you are using this system for that exam. |
 
 ## Learn more
 
-For the full system design including mode flows, schedule logic, log schema, and setup details, see **[HOW-IT-WORKS.md](HOW-IT-WORKS.md)**.
+For the full system design including mode flows, schedule logic, log schema, and setup details, see **[HOW-IT-WORKS.md](HOW-IT-WORKS.md)**. For a visual one-page overview, open **[system-diagram.html](system-diagram.html)** in a browser.
+
